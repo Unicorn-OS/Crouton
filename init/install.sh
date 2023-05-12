@@ -17,7 +17,7 @@ brightness_and_volume(){
   sudo crouton -r $name -t keyboard –u
 }
 
-install_Distro(){
+install_default_Distro(){
   sudo crouton -t xfce
  }
 
