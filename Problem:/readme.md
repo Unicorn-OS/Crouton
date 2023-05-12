@@ -1,7 +1,8 @@
 # Bug: "sed: can't read common/cras_messages.h: No such file or directory"
 - https://github.com/dnschneid/crouton/issues/4971
 
-## Long term Solution: [Figure out a way to build audio target now that autotools is removed #4958](https://github.com/dnschneid/crouton/issues/4958)
+## Long term Solution:
+[Figure out a way to build audio target now that autotools is removed #4958](https://github.com/dnschneid/crouton/issues/4958)
 
 ## (Works) Solution: Revert your Chromebook to 110 to install crouton #4968
 solution: https://github.com/dnschneid/crouton/discussions/4968
