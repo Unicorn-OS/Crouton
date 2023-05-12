@@ -6,6 +6,9 @@
 
 solution: "Update: I followed u/CroutonIsFun's advice by switching from Canary to stable and the problem was fixed."
 
+## relation: The future of crouton: an eerie silence #4967
+https://github.com/dnschneid/crouton/discussions/4967
+
 ## Solution: Revert your Chromebook to 110 to install crouton #4968
 https://github.com/dnschneid/crouton/discussions/4968
 
