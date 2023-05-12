@@ -7,9 +7,15 @@ download_Crouton(){
 }
 
 brightness_and_volume(){
-  sudo crouton -r $name -t keyboard -u
+  sudo sh -e ~/Downloads/crouton -r $name -t keyboard –u
 }
 
 install_Distro(){
   sudo crouton -t xfce
  }
+
+remove_screensaver(){
+sudo enter-chroot
+sudo apt purge xscreensaver -y
+exit
+}
