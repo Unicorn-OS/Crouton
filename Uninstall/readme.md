@@ -2,6 +2,7 @@ https://www.reddit.com/r/Crouton/comments/kf80sc/how_do_i_uninstall_crouton_in_c
 
 ```
 sudo edit-chroot -l -a 
+name=""
 
-sudo delete-chroot "name"
+sudo delete-chroot "$name"
 ```
